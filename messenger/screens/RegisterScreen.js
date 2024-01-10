@@ -167,6 +167,7 @@ const RegisterScreen = () => {
               borderRadius: 6,
             }}
           >
+            
             <Text
               style={{
                 color: "white",
